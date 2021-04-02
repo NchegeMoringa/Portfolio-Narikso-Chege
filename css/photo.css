@@ -18,3 +18,7 @@ hi {
 .gallery img:hover{
         filter:grayscale(0)
 }
+.pics {
+    background-color: slategray;
+    border-width: 2px;
+}
