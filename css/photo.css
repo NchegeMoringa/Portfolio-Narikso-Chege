@@ -11,7 +11,7 @@ hi {
 
 }
 .gallery img{
-    width:230px;
+    width:170px;
     padding: 5px;
     filter: grayscale(100%);
     transition: ls;
