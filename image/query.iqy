@@ -1,0 +1,16 @@
+WEB
+1
+https://mkopa.sharepoint.com/techops/_vti_bin/owssvr.dll?XMLDATA=1&List={F315EC97-E971-47AD-BA82-6B1525C6525F}&View=B915FC82-DACD-4736-9136-D3D25FDC1829&RowLimit=0&RootFolder=%2ftechops%2fGeneral%20TechOps%2fBitlocker%20Keys
+
+Selection={F315EC97-E971-47AD-BA82-6B1525C6525F}-B915FC82-DACD-4736-9136-D3D25FDC1829
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://mkopa.sharepoint.com/techops/_vti_bin
+SharePointListView=B915FC82-DACD-4736-9136-D3D25FDC1829
+SharePointListName={F315EC97-E971-47AD-BA82-6B1525C6525F}
+RootFolder=/techops/General%20TechOps/Bitlocker%20Keys
